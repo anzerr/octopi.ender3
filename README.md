@@ -30,12 +30,12 @@ Warning: The zero w will not work with a camera the CPU usage is to hight negati
 ### `Prints`
 You can print most of these without supports. The models can be found in "./models" the source files are there with the stl. The models where made with sketchup
 
-- 1 x xt60_y_connector (no support)
-- 1 x pi_base (no support)
-- 1 x boost_base (no support)
-- 1 x case (touching buildplate support)
-- 2 x spacer_pi (touching buildplate support)
-- 1 x spacer (no support)
+- 1 x [xt60_y_connector (no support)](https://github.com/anzerr/octopi.ender3/raw/master/models/xt60_y_connector.stl)
+- 1 x [pi_base (no support)](https://github.com/anzerr/octopi.ender3/raw/master/models/pi_base.stl)
+- 1 x [boost_base (no support)](https://github.com/anzerr/octopi.ender3/raw/master/models/boost_base.stl)
+- 1 x [case (touching buildplate support)](https://github.com/anzerr/octopi.ender3/raw/master/models/case.stl)
+- 2 x [spacer_pi (touching buildplate support)](https://github.com/anzerr/octopi.ender3/raw/master/models/spacer_pi.stl)
+- 1 x [spacer (no support)](https://github.com/anzerr/octopi.ender3/raw/master/models/spacer.stl)
 
 The only clean up needed should be drilling the holes so the screw can move freely. Add the two brass inserts to the pi_base and the parts will be ready to be assembled.
 
