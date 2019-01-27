@@ -57,13 +57,14 @@ The pi pads with labels
 
 ### `Images`
 <div style="text-align:center">
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/octopi_case.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/octopi_nocase.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_front.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_side.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_side2.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_wiring.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_back.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_front.jpg" alt="drawing" height="300"/>
-	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_connected.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/octopi_case.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_side.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/octopi_nocase.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_back.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_front.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_front.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_side2.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_connected.jpg" alt="drawing" style="float:left" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_wiring.jpg" alt="drawing" style="float:left" height="300"/>
+	<span style="height:300px;float:left;width:168.75px;background:#f3f4f4;"/>
 </div>
