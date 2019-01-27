@@ -28,7 +28,7 @@ Warning: The zero w will not work with a camera the CPU usage is to hight negati
 - edit octopi-wpa-supplicant.txt to with your wifi credenciales
 
 ### `Prints`
-You can print most of these without supports
+You can print most of these without supports. The models can be found in "./models" the source files are there with the stl. The models where made with sketchup
 
 - 1 x xt60_y_connector (no support)
 - 1 x pi_base (no support)
@@ -37,9 +37,16 @@ You can print most of these without supports
 - 2 x spacer_pi (touching buildplate support)
 - 1 x spacer (no support)
 
-There should be no clean up needed. Add the two brass inserts to the pi_base
+The only clean up needed should be drilling the holes so the screw can move freely. Add the two brass inserts to the pi_base and the parts will be ready to be assembled.
 
 ### `Wiring`
+
+The pi pads with labels
+
+<div style="text-align:center">
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pads.jpg" alt="drawing" width="300"/>
+</div>
+
 - Creating the xt60 Y connector.
 - Use the left over male connector with the 14awg cable to create wiring to the buck converter.
 - Set the buck converter to a little under 5v
@@ -49,3 +56,14 @@ There should be no clean up needed. Add the two brass inserts to the pi_base
 - wire the rest, black to gnd, green to d+ and white to d-. (on my usb mini cable I had to swap d+ and d-)
 
 ### `Images`
+<div style="text-align:center">
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/octopi_case.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/octopi_nocase.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_front.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_side.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_side2.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/pi_wiring.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_back.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_front.jpg" alt="drawing" height="300"/>
+	<img src="https://github.com/anzerr/octopi.ender3/raw/master/image/xt60_connected.jpg" alt="drawing" height="300"/>
+</div>
