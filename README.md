@@ -7,7 +7,7 @@ Warning: The zero w will not work with a camera the CPU usage is to hight negati
 ### `Bill of materials`
 
 - 1 x Boost Buck Converter XL6009
-- 2 x T Block Square nuts 2020 m3 or printed version // https://www.thingiverse.com/thing:3050607
+- 2 x T Block Square nuts 2020 m3 or [printed version](https://www.thingiverse.com/thing:3050607)
 - 1 x raspberry pi zero w
 - 1 x 16gb sd card
 - 2 x xt60 plug pair
@@ -23,8 +23,8 @@ Warning: The zero w will not work with a camera the CPU usage is to hight negati
 - 1 x usb mini B to usb
 
 ### `Setup Pi`
-- Download the os https://octoprint.org/download/
-- Use etch flash the image onto a sd card (https://github.com/balena-io/etcher)
+- [Download the os](https://octoprint.org/download/)
+- [Use etch flash the image onto a sd card](https://github.com/balena-io/etcher)
 - edit octopi-wpa-supplicant.txt to with your wifi credenciales
 
 ### `Prints`
